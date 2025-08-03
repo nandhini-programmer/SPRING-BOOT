@@ -45,3 +45,20 @@ request,response---is callwd cliwnt servr architeture
 * user cant acces teh databse so only use teh api
 * only authorise teh database
 * we use teh api funtion that will call
+* authorise to security
+* to use teh api in communication medium
+# api is in the communication between the api and database
+
+
+# get mapping
+### http request types
+* get    -TO CREATEA NEW  TO POST REQUEST TO ---           DEFIN---TO RETRIVE THE ACOUND DETAIL
+* putn     -------------------------------------           DEFIN---TO UPDATION
+* PUT IS UPDATE ALL IN DATA
+* patch    -TO CREATEA NEW ---------------------           DEFIN---IN PATCH PUT IN UPDAE ALL ,IT WILL SPECIFIC UPDATE
+* post       -TO CREATEA NEW -------------------           DEFIN----ACCOUNT CREATE 
+* delete     -TO CREATEA NEW -------------------           DEFIN-----DELETE
+^           DEFIN---
+|^
+
+# http:to share info in interrnet in httpn
