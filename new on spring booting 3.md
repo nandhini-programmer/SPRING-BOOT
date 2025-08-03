@@ -62,3 +62,14 @@ request,response---is callwd cliwnt servr architeture
 |^
 
 # http:to share info in interrnet in httpn
+
+
+
+
+
+### BY SU
+### USING THIS 5 METHODS WE CCAN USE GETPMANIG
+THEN GOTO OPSTMAN-in the dropdown has request types
+* the code in getmapping so in the postman have get--
+* put an correct request typesn
+* 
